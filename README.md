@@ -1,7 +1,7 @@
 # -02238-Biometric-Systems-Project
 Evaluating the Performance of Facial Recognition  Algorithms on Morphed Human Faces (DTU  02238-Biometric Systems Final Project)
 
-This repositoyy contains the necessary scripts and database to run the project 02238-s233162-2024 on Evaluating the Performance of Facial Recognition Algorithms on Morphed Human Faces. The project consists of three main scripts:
+This repositoy contains the necessary scripts and database to run the project 02238-s233162-2024 on Evaluating the Performance of Facial Recognition Algorithms on Morphed Human Faces. The project consists of three main scripts:
 
 
 - Dataset segmentation script: This script is used to segment the original Facial Recognition Vendor Test (FRVT) dataset into a smaller subset that specifically includes data from 50 individuals. This process ensures that the dataset used in the experiments is a manageable and accurate cross section of the larger dataset.
